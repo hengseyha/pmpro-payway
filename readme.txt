@@ -15,8 +15,6 @@ Add the Cambodia payment processing service ABA PayWay as a gateway option for P
 
 [ABA PayWay](https://www.payway.com.kh/) is a payments processing service for Camobodian websites. Their payment gateway offers a secure and instant transfer of money between online buyers and sellers. Merchants can accept funds from local and international customers from anywhere in the world in Dollars.
 
-[youtube http://www.youtube.com/watch?v=aDjjSjmJ-j8]
-
 == Installation ==
 
 1. Make sure you have the Paid Memberships Pro plugin installed and activated.
@@ -34,15 +32,14 @@ Add the Cambodia payment processing service ABA PayWay as a gateway option for P
 
 = I found a bug in the plugin. =
 
-Please post it in the GitHub issue tracker here: https://github.com/strangerstudios/pmpro-payfast/issues
+Please post it in the GitHub issue tracker here: https://github.com/hengseyha/pmpro-payway/issues
 
 For immediate help, also post to our premium support site at https://www.paidmembershipspro.com for more documentation and our support forums.
 
 = I need help installing, configuring, or customizing the plugin. =
 
-Please visit our premium support site at https://www.paidmembershipspro.com for more documentation and our support forums.
+Please visit our premium support via telelegram @hengseyha21 https://telegram.me/hengseyha21.
 
-= I need to test Payfast in sandbox mode. =
+= I need to test ABA PayWay in sandbox mode. =
 
-To test Payfast payments without being billed in sandbox mode requires a sandbox account from PayFast. For more information in creating a sandbox account - https://developers.payfast.co.za/documentation/#the-sandbox
-
+To test ABA PayWay payments without being billed in sandbox mode requires a sandbox account from ABA Bank. For more information in creating a sandbox account - https://www.payway.com.kh/developers/general
